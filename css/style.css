@@ -15,7 +15,7 @@ body {
 }
 
 #mydivheader {
-  padding: 10px;
+  padding: 4px;
   cursor: move;
   z-index: 10;
   background-color: #ebebeb;
